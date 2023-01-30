@@ -52,4 +52,4 @@ foreach ( $results as $row ) {
 $db_connection = null;
 ~~~
 <br>
-Link to css-tricks <https://css-tricks.com/snippets/php/basic-database-connection-random-query-display-result>
+Link to css-tricks <https://css-tricks.com/snippets/php/basic-database-connection-random-query-display-result/>
