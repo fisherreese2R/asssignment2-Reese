@@ -11,3 +11,6 @@ almost every weekend we are together which makes it more fun to watch
 2. Klay Thompson
 3. Draymond Green
 
+* Boston Celtics
+* Brooklyn Nets
+* Los Angeles Lakers
