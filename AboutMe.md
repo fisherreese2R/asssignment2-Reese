@@ -16,3 +16,9 @@ outside your resort it could be very dangerous and unwelcoming.
 |:------------:|:------------:|:------------:|:------------:|
 | Cheap and Fun | Good Food | Good Hiking Trails | Rich Heritage |
 | 7 days | 4 days | 5 days | 4 days|
+
+***
+
+### Funny Quotes 
+<If you aint first your last> **Ricky Bobby**
+<Life's a garden, dig it > **Joe Dirt**
