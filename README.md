@@ -1,6 +1,13 @@
 # Fisher Reese
+### Basketball
+I enjoy watching basketball because it is a very ***competitive** sport that is never standing still <br>
+and every player is able to make an ***incredible*** play. My family are basketball fans so we watch basketball <br>
+almost every weekend we are together which makes it more fun to watch
+
+***
+
 ### Golden State Warriors
-I like the Golden State Warriors because they have Stephen Curry who is the <br>
-___greatest shooter of all time__. He is very fun to watch since he takes ***crazy shots*** that <br> 
-should never go in the bucket but when the lights are the brightest and the stage is set it <br>
-seems he always delivers. 
+1. Stephen Curry
+2. Klay Thompson
+3. Draymond Green
+
