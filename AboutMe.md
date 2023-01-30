@@ -30,6 +30,7 @@ outside your resort it could be very dangerous and unwelcoming.
 I tried the following code to connect to the database, tried it with, and without the database. I tried mysql_connect and something else, but always got the same error: (hidden:servername and others are the proper information of the server, just it is not pulbic.)<br>
 
 Go to Article <https://stackoverflow.com/questions/55143102/how-to-connect-to-mysql-database-in-php>
+Link to css-tricks <https://css-tricks.com/snippets/php/basic-database-connection-random-query-display-result>
 
 ~~~php
 <?php
@@ -52,4 +53,3 @@ foreach ( $results as $row ) {
 $db_connection = null;
 ~~~
 <br>
-Link to css-tricks <https://css-tricks.com/snippets/php/basic-database-connection-random-query-display-result>
