@@ -20,5 +20,7 @@ outside your resort it could be very dangerous and unwelcoming.
 ***
 
 ### Funny Quotes 
-<If you aint first your last> **Ricky Bobby**
-<Life's a garden, dig it > **Joe Dirt**
+>If you aint first your last
+ **Ricky Bobby**
+>Life's a garden, dig it 
+**Joe Dirt**
