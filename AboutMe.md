@@ -22,3 +22,31 @@ outside your resort it could be very dangerous and unwelcoming.
 ### Funny Quotes 
 >"If you aint first your last" ~ **Ricky Bobby** <br>
 >"Life's a garden, dig it" ~ **Joe Dirt**
+
+***
+
+### Code Snippet
+>I'm kinda new in PHP, but I was told to create a login form that connects to Mysql database.
+I tried the following code to connect to the database, tried it with, and without the database. I tried mysql_connect and something else, but always got the same error: (hidden:servername and others are the proper information of the server, just it is not pulbic.)
+
+
+~~~php
+<?php
+
+$hostname = 'localhost';
+$user = 'username';
+$pass = 'password';
+$database = 'database_name';
+
+$db_connection = new PDO( "mysql:host=" . $hostname . ";dbname=" . $database, $user, $pass );
+
+$results = $db_connection->query( 'SELECT testimonial, author FROM recommendations WHERE 1 ORDER by rand() LIMIT 1' );
+
+foreach ( $results as $row ) {
+	echo '<p id="quote">' . $row['testimonial'] . '</p>';
+	echo '<p id="author">&ndash;' . $row['author'] . '</p>';
+}
+
+// Close the connection
+$db_connection = null;
+~~~
