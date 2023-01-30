@@ -13,5 +13,6 @@ I have been to quite a few different countries over the years, some I had alot o
 scary at times and dangerous. When traveling it is a great idea to checkout the neighborhood/area you are going<br> to and not just the resort you are staying at. The resort could look very nice and pretty but when you adventure<br>
 outside your resort it could be very dangerous and unwelcoming. 
 | Mexico | Italy | Spain | Greece |
+|:------------:|:------------:|:------------:|:------------:|
 | Cheap and Fun | Good Food | Good Hiking Trails | Rich Heritage |
 | 7 days | 4 days | 5 days | 4 days|
