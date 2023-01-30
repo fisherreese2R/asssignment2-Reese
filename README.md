@@ -1,6 +1,6 @@
 # Fisher Reese
 ### Basketball
-I enjoy watching basketball because it is a very ***competitive** sport that is never standing still <br>
+I enjoy watching basketball because it is a very ***competitive*** sport that is never standing still <br>
 and every player is able to make an ***incredible*** play. My family are basketball fans so we watch basketball <br>
 almost every weekend we are together which makes it more fun to watch
 
